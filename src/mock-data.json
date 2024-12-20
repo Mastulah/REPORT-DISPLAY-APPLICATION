@@ -1,0 +1,11 @@
+[
+    {
+      "transactionId": "T001",
+      "date": "2024-12-01",
+      "accountHolderName": "John Doe",
+      "transactionType": "Deposit",
+      "amount": 500,
+      "accountBalance": 1500
+    }
+  ]
+  
